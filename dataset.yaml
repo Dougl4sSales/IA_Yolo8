@@ -1,0 +1,9 @@
+# dataset.yaml
+path: /home/douglas/work/IA_Yolo8/dataset/
+train: images/train
+val: images/val
+nc: 2  
+# names: [capivara, gralha_azul]
+names:
+  0: capivara
+  1: gralha_azul
